@@ -21,11 +21,9 @@ header img{
     margin-top: 5%;
 }
 
-#titolo{
-    font-size: 350%;
-}
 
-main p{
+
+.sottotitolo{
     color: gray;
 }
 
@@ -33,3 +31,16 @@ main span{
     color: rgb(20, 125, 230);
 }
 
+
+.main-div{
+    width: 80%;
+    margin: auto;
+}
+
+#titolo{
+    font-size: 250%;
+}
+
+.descrizione-foto{
+    font-size: 75%;
+}
