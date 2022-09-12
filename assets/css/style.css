@@ -58,3 +58,27 @@ thead{
 .riga-azzurra{
     background-color: lightblue;
 }
+
+h3{
+    color: gray;
+}
+
+#immagine1-footer{
+    color: white;
+    background-image: url(../css/img/monitor.jpg);
+    background-repeat: no-repeat;
+    min-width: 50px;
+    min-height: 200px;
+    max-width: 500px;
+    max-height: 500px;
+}
+
+#immagine2-footer{
+    color: white;
+    background-image: url(../css/img/graph.jpg);
+    background-repeat: no-repeat;
+    min-width: 50px;
+    min-height: 200px;
+    max-width: 500px;
+    max-height: 500px;
+}
