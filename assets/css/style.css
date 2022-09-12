@@ -44,3 +44,17 @@ main span{
 .descrizione-foto{
     font-size: 75%;
 }
+
+table{
+    border-spacing: 0;
+    box-sizing: content-box;
+}
+
+thead{
+    background-color: rgb(20, 125, 230);
+    color: white;
+}
+
+.riga-azzurra{
+    background-color: lightblue;
+}
