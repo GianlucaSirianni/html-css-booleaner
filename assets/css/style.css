@@ -49,7 +49,6 @@ main span{
 
 table{
     border-spacing: 0;
-    box-sizing: content-box;
 }
 
 thead{
